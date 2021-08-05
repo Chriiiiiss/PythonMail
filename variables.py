@@ -1,5 +1,7 @@
 # Just some global variable
 
-MY_ADDRESS = "notamail@mail.com"
+MY_ADDRESS = "MAIL"
 
-MY_PASSWORD = "Ahaha as if i would put my password here"
+MY_PASSWORD = "MDP"
+
+SUBJECT = "SUBJECT"
